@@ -4,7 +4,7 @@ Think different, think components
 ## OOCSS, ACSS, BEM, SMACSS
 
 ## CSS in JS
-
+> If you’re writing React, you have access to a more powerful styling construct than CSS class names. You have components.
 
 ## CSS Modules
 
