@@ -21,7 +21,9 @@ Think different, think components
 ## Links
 - http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/
 - https://www.sitepoint.com/atomic-oobemitscss/
+- https://github.com/MicheleBertoli/css-in-js
 - https://speakerdeck.com/hugogiraudel/local-styling-with-css-modules
 - https://speakerdeck.com/fox/front-end-systems-at-scale
 - http://www.universalmind.com/blog/css-modules%E2%80%8A-%E2%80%8Asolving-the-challenges-of-css-at-scale/
 - http://glenmaddern.com/articles/css-modules
+- https://medium.com/yplan-eng/atomic-css-modules-cb44d5993b27#.j9k5mmv3u
